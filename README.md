@@ -4,13 +4,16 @@ FinEduPro Insights is an innovative financial education platform powered by cutt
 
 ## Features
 
-- **Chat & Learn:** Engage in dynamic Q&A sessions, build a personalized knowledge base, and save discussions for future reference using Azure Conversational AI service.
+- **Chat & Learn:**  Elevate your financial knowledge with our intelligent chatbot. Utilizing Azure's Conversational AI service, users engage in dynamic Q&A sessions, build a personalized knowledge base, and save discussions for future reference.
 
-- **Keyword Powered Notes:** Transform note-taking with keyword extraction and highlighting features using Azure Keyword Extractor (Azure Language Service).
 
-- **VideoLink:** Immerse in effortless learning with relevant videos on budgeting, saving, investing, and more, powered by Azure Bing Search API.
+- **Keyword Powered Notes:** Transform note-taking with KeyNote. Leveraging Azure's Keyword Extractor Feature, KeyNote identifies and highlights essential keywords in financial content, ensuring users capture comprehensive and organized notes effortlessly.
 
-- **LinguaBrief:** Overcome language barriers and save time with text summarization and real-time translation using Azure Text Summarizer and Azure AI Translator service (Azure Language Service).
+
+- **VideoLink:** Immerse yourself in effortless learning with VideoLink. Powered by Azure Bing Search API, VideoLink swiftly locates relevant learning videos on budgeting, saving, investing, and more, providing users with an engaging learning experience.
+
+
+- **LinguaBrief:** Overcome language barriers and save time with LinguaBrief. Our Text Summarizer, supported by Azure AI Text Summarizer and Translator, generates concise summaries and real-time translations of financial content, facilitating efficient communication and comprehension across diverse audiences.
 
 
 
