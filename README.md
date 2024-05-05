@@ -2,6 +2,11 @@
 
 FinEduPro Insights is an innovative financial education platform powered by cutting-edge AI technologies, seamlessly integrated through Streamlit and backed by Azure services. This platform aims to revolutionize financial literacy by providing users with accessible, accurate, and actionable insights to make informed financial decisions.
 
+## Problem statement
+Traditional financial education methods often fail to engage learners effectively, resulting in low retention rates and limited understanding of complex financial concepts. Additionally, accessibility barriers prevent individuals from accessing quality financial education resources, exacerbating the problem. As a result, there is a pressing need for innovative solutions that address these challenges by providing accessible, engaging, and personalized financial education experiences. These solutions must cater to individuals of all ages and backgrounds, empowering them to build essential financial skills and achieve long-term financial well-being.
+
+
+
 ## Features
 
 - **Chat & Learn:**  Elevate your financial knowledge with our intelligent chatbot. Utilizing Azure's Conversational AI service, users engage in dynamic Q&A sessions, build a personalized knowledge base, and save discussions for future reference.
