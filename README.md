@@ -9,6 +9,8 @@ Traditional financial education methods often fail to engage learners effectivel
 
 ## Features
 
+FinEduPro is a comprehensive online platform offering interactive modules on budgeting, saving, investing, debt management, and retirement planning. It enhances engagement through gamification and provides personalized learning experiences using data analytics. Designed for inclusivity, FinEduPro ensures accessibility for all users via web and mobile apps, utilizing responsive web development technologies like HTML, CSS, JavaScript, and frameworks like React Native or Flutter.
+
 - **Chat & Learn:**  Elevate your financial knowledge with our intelligent chatbot. Utilizing Azure's Conversational AI service, users engage in dynamic Q&A sessions, build a personalized knowledge base, and save discussions for future reference.
 
 
@@ -18,7 +20,7 @@ Traditional financial education methods often fail to engage learners effectivel
 - **VideoLink:** Immerse yourself in effortless learning with VideoLink. Powered by Azure Bing Search API, VideoLink swiftly locates relevant learning videos on budgeting, saving, investing, and more, providing users with an engaging learning experience.
 
 
-- **LinguaBrief:** Overcome language barriers and save time with LinguaBrief. Our Text Summarizer, supported by Azure AI Text Summarizer and Translator, generates concise summaries and real-time translations of financial content, facilitating efficient communication and comprehension across diverse audiences.
+- **Brief:** Overcome language barriers and save time with LinguaBrief. Our Text Summarizer, supported by Azure AI Text Summarizer and Translator, generates concise summaries and real-time translations of financial content, facilitating efficient communication and comprehension across diverse audiences.
 
 
 
